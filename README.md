@@ -26,17 +26,9 @@ Feel free to explore, contribute, and provide feedback. 🌟
 ## 🌟 About the Project
 [Write a brief introduction to your project here. Explain what it does, why it exists, and its goals.]
 
-### Built With
-- [Language/Framework 1](https://example.com)
-- [Language/Framework 2](https://example.com)
-- [Library/Tool 1](https://example.com)
-
 ---
 
-## ✨ Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+**Badges**: Menambahkan lencana untuk meningkatkan daya tarik visual.
 
 ---
 
@@ -50,4 +42,4 @@ To get a local copy up and running, follow these steps:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/Fizxxc/speedometer.git
